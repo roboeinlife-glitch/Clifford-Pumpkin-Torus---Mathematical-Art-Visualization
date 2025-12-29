@@ -19,3 +19,17 @@ R: Reset camera
 ESC: Thoát
 
 Chương trình được tạo bởi DeepSeek AI
+
+[Demo](https://www.youtube.com/shorts/uVMPYoDR2x4)
+
+[Demo2](https://www.youtube.com/shorts/9FKWJYTNsUo)
+
+![C++](https://img.shields.io/badge/C++-17-blue.svg)
+![SFML](https://img.shields.io/badge/SFML-2.5+-green.svg)
+![License](https://img.shields.io/badge/license-MIT-orange.svg)
+
+### 🛠️ Cài đặt trên Code::Blocks
+1. Tải [SFML 2.5.x](https://www.sfml-dev.org/download.php)
+2. Trong Code::Blocks: Settings → Compiler → Linker settings
+3. Thêm: `sfml-graphics`, `sfml-window`, `sfml-system`
+4. Mở `main.cpp` và nhấn F9 để chạy
